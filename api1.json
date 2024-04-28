@@ -1,6 +1,5 @@
 {
   "form": {
-    "title": "Registro de Usuario",
     "fields": [
       {
         "name": "username",
@@ -33,3 +32,4 @@
     }
   }
 }
+
